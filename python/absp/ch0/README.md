@@ -10,7 +10,7 @@ From this chapter let's skip:
 
 The book mentions a couple of websites that allow sharing code. Let's use <https://gist.github.com/>.
 
-Don't go thru all the links the authoer provides to <https://reddit.com> etc - just skim thru the chapter and move on to more interesting stuff (Chapter 1).
+Don't go thru all the links the author provides to <https://reddit.com> etc - just skim thru the chapter and move on to more interesting stuff (Chapter 1).
 
 ## Problems
 
